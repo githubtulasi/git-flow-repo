@@ -1,6 +1,7 @@
 {
 	"name": "selfhosted-IR",
 	"properties": {
-		"type": "SelfHosted"
+		"type": "SelfHosted",
+		"description": "IR@f09398bf-1a3d-41dc-816c-5c9bbf74bb9b@adfv2mani96@ServiceEndpoint=adfv2mani96.eastus.datafactory.azure.net@oRXHVOENwyjzA7WS9Y1zhRqtMrgRpKWD/DbfjbPmZDs="
 	}
 }
