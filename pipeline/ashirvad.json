@@ -1,0 +1,14 @@
+{
+	"name": "ashirvad",
+	"properties": {
+		"parameters": {
+			"tablerule": {
+				"type": "string",
+				"defaultValue": "10"
+			}
+		},
+		"annotations": [
+			"tablers"
+		]
+	}
+}
